@@ -1,28 +1,14 @@
-This is a test draft page
-##########################
+Tryouts with C and reStructuredText
+###################################
 
-:date: 2020-11-26 16:05
-:modified: 2010-10-04 18:40
-:tags: thats, awesome
-:category: yeah
-:slug: my-super-post
-:authors: Alexis Metaireau, Conan Doyle
+:date: 2022-07-19
+:category: README
+:author: koohyar
 :summary: Short version for index and feeds
 
 The quick brown fox *asteriks* over the **double asteriks** `link <{filename}>`_ to see ``print``.
 See below intra-site link examples in reStructuredText format.
 
-
-`a link relative to the current file <{filename}../article2.md>`_
-
-
-`a link relative to the content root <{filename}/article2.md>`_
-
-This page is a draft.
-
-#. Row 0
-#. Row 1
-#. Row 2
 
 | These lines are
 | broken exactly like in
