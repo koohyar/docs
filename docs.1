@@ -1,0 +1,47 @@
+.TH docs 1 "21 July 2022" "version 1.0"
+.SH NAME
+docs - my own text editor
+.SH SYNOPSIS
+.B [-d] [-e]
+.B [-f
+.I filename
+.B ]
+.SH DESCRIPTION
+.R Here is the
+.B placeholder
+.R for README.rst
+.SH OPTIONS
+.IP -d
+directory for sitemap generator
+.IP -e | cleanup
+ENVIRONMENT or cleanup file.
+.IP "-f filename"
+optional template file (
+passed to yagg
+).
+.SH RETURN VALUE
+returns trapped signal by default.
+
+if
+.I cleanup
+is provided, returns
+.I EXIT_STATUS.
+
+.SH FILES
+You can pull your favorite pelican theme and set it as
+.IR THEME_STATIC_DIR " in the config file,"
+or pass as argument to pelican invokation with
+.B pelican \-t.
+
+Currently the theme is maintained by sparse-checkout.
+
+.RS
+$ git clone --depth 1 --filter=blob:none --sparse https://github.com/getpelican/pelican-themes site/pelican-themes
+
+$ cd site/pelican-themes
+
+$ git sparse-checkout set brownstone
+
+.RE
+
+
