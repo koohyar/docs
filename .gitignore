@@ -1,2 +1,2 @@
-site/output
+__pycache__
 site/pelican-themes/
