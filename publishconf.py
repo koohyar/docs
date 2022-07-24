@@ -15,7 +15,7 @@ SITEURL = 'https://koohyar.github.io/docs'
 RELATIVE_URLS = True
 
 
-DELETE_OUTPUT_DIRECTORY = True
+#DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
 
