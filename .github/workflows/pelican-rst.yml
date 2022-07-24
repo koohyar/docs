@@ -1,0 +1,24 @@
+name: Pelican site CI
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: prepare
+      run: |
+        sudo apt update
+        sudo apt install pelican bash
+        pip freeze > requirements.txt
+      
+    - uses: actions/checkout@v2
+    - uses: nelsonjchen/gh-pages-pelican-action@0.1.5
+      env:
+        GITHUB_WORKSPACE: site
+        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
