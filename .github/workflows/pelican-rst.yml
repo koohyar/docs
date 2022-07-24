@@ -23,7 +23,7 @@ jobs:
         run: echo Hello, world!
         
       - name: Prepare Environment
-      - run: |
+        run: |
           apt-get update \
           && apt-get install --no-install-recommends -qy git curl bash \
           && apt-get install pelican
