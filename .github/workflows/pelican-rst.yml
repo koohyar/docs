@@ -24,9 +24,9 @@ jobs:
         
       - name: Prepare Environment
         run: |
-          apt-get update \
-          && apt-get install --no-install-recommends -qy git curl bash \
-          && apt-get install pelican
+          apt-get update
+          apt-get install --no-install-recommends -qy git curl bash \
+          apt-get install pelican
 
       - name: Run a multi-line script
         run: |
