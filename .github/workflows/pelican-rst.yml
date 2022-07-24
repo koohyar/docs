@@ -20,6 +20,5 @@ jobs:
     - uses: actions/checkout@v2
     - uses: nelsonjchen/gh-pages-pelican-action@0.1.5
       env:
-        PELICAN_CONFIG_FILE: site/pelicanconf.py
-        PELICAN_CONTENT_FOLDER: site/content
+        GITHUB_WORKSPACE: site
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
