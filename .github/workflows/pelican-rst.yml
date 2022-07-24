@@ -1,33 +1,26 @@
-name: Pelican rST
 
-# Controls when the workflow will run
+
+name: Pelican site CI
+
 on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
+    branches:
+      - master
 
 jobs:
   build:
+
     runs-on: ubuntu-latest
 
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
-
-      - name: Run a one-line script
-        run: echo Hello, $GH_ENV from world!
-        
-      - name: Prepare Environment
-        run: |
-          sudo apt update
-          sudo apt install --no-install-recommends -qy git curl bash
-          sudo apt install pelican
-
-      - name: Run a multi-line script
-        run: |
-          pelican site/content -s site/pelicanconf.py
+    - name: prepare
+      run: |
+        sudo apt update
+        sudo apt install pelican bash
+      
+    - uses: actions/checkout@v2
+    - uses: nelsonjchen/gh-pages-pelican-action@0.1.5
+      env:
+        PELICAN_CONFIG_FILE: site/pelicanconf.py
+        PELICAN_CONTENT_FOLDER: site/content
+        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
