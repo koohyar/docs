@@ -1,4 +1,4 @@
-echo "Process ID is:\t1482"
+echo "Process ID is:\t$$"
 echo "check field spearators (^I means TAB)\n"
 echo "===="
 echo "$IFS" | cat -vte
