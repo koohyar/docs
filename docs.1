@@ -27,9 +27,30 @@ optional template file (
 passed to yagg
 ).
 
+.SH EXAMPLE
+To create an example static generator/server
+
+    #include <unistd.h>
+
+    #ifndef EXP
+    #define EXPAND_TAYLOR 0;
+    #endif
+
+    char * buf;
+    size_t need;
+    need = confstr('TEMPLATE_DIR', need, sizeof(buf))
+
+    /*
+    use `errno' or `fprintf' for logging
+    */
+
+    // int status = (char *) provide(...)
+
+This is also what happens when running `make test'.
+
 .SH RETURN VALUE
 returns trapped signal by default. If
-.IR cleanup " is provided, returns " EXIT_STATUS
+.IR cleanup " is provided, returns " EXIT_STATUS.
 
 .SH FILES
 You can pull your favorite pelican theme and set it as
