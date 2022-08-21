@@ -14,7 +14,7 @@ from pelicanconf import *
 SITEURL = 'https://koohyar.github.io/docs'
 
 # document-relative URLs when developing
-RELATIVE_URLS = False
+RELATIVE_URLS = True
 
 
 #DELETE_OUTPUT_DIRECTORY = True
