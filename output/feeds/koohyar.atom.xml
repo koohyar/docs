@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Destructring Generators - koohyar</title><link href="/" rel="alternate"></link><link href="/feeds/koohyar.atom.xml" rel="self"></link><id>/</id><updated>2022-08-28T00:00:00+02:00</updated><entry><title>Strays</title><link href="/strays.html" rel="alternate"></link><published>2022-08-28T00:00:00+02:00</published><updated>2022-08-28T00:00:00+02:00</updated><author><name>koohyar</name></author><id>tag:None,2022-08-28:/strays.html</id><summary type="html">&lt;div class="section" id="definiteness-no-marks"&gt;
+&lt;h2&gt;Definiteness, no marks&lt;/h2&gt;
+&lt;p&gt;Trees overfit. Day one of most integration tests they tell you that. Quite
+straightforward. No wonder trunks and trunks of scopes are allowed to eventually pile up
+almost anywhere, over a very long time. They all overfit. Testing these stuff is
+a merry-go-round. You fasten your formatter …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="definiteness-no-marks"&gt;
+&lt;h2&gt;Definiteness, no marks&lt;/h2&gt;
+&lt;p&gt;Trees overfit. Day one of most integration tests they tell you that. Quite
+straightforward. No wonder trunks and trunks of scopes are allowed to eventually pile up
+almost anywhere, over a very long time. They all overfit. Testing these stuff is
+a merry-go-round. You fasten your formatter and just sit there for a good
+complex of fine automaton. Nothing is wrong and table is what you take for
+granted. Counting this as work is a task for the tree.&lt;/p&gt;
+&lt;p&gt;But the cache reconf is worth the while. You get static parsing for it;
+when stuff change, you change with them. Biased, sure, but shift-invariance
+gives you better coverage in exchange for... can't seem to recollect, but in
+exchange for the overfit guilt.&lt;/p&gt;
+&lt;p&gt;So we get these per relative association. It is often enough for the normalized amusement
+and keeps you from getting into spectrum stuff for leizure. Relative association, by
+the way, is more a matter of implementation. Not many care about the term. It is
+mostly taken as the ability to index and having it (which don't associate).
+But sweeps your worries of derivatives, no under-determinism. It has you going
+back to it, though. You get faster, more racing conditions to worry about, etc.&lt;/p&gt;
+&lt;p&gt;Keep it to good use, get used to static cache, it's there to stay.&lt;/p&gt;
+&lt;pre class="code c literal-block"&gt;
+&lt;span class="ln"&gt;25 &lt;/span&gt;&lt;span class="kt"&gt;int&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nf"&gt;main&lt;/span&gt;&lt;span class="p"&gt;(){&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;span class="ln"&gt;26 &lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;span class="ln"&gt;27 &lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;YYSTYPE&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;yylval&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;span class="ln"&gt;28 &lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;YYLTYPE&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;*&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;yylloc&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;span class="ln"&gt;29 &lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;span class="ln"&gt;30 &lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;yylex&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;yylval&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;yylloc&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;span class="ln"&gt;31 &lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="k"&gt;return&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;span class="ln"&gt;32 &lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;span class="ln"&gt;33 &lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;Fascinating, how edges never turn out.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="blog"></category></entry><entry><title>Blanket Surfing</title><link href="/blanket-surfing.html" rel="alternate"></link><published>2022-07-23T00:00:00+02:00</published><updated>2022-07-23T00:00:00+02:00</updated><author><name>koohyar</name></author><id>tag:None,2022-07-23:/blanket-surfing.html</id><summary type="html">&lt;p&gt;Some internal parts of parsers never actually make it. Sad, really. You fade in
+and out for a time that could be eons or milliseconds, to no actual end. They
+seem to be fine with it. They show around some stuff that look like leaves and
+just puff out of …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Some internal parts of parsers never actually make it. Sad, really. You fade in
+and out for a time that could be eons or milliseconds, to no actual end. They
+seem to be fine with it. They show around some stuff that look like leaves and
+just puff out of the scope. No trace, no residuals, it works seamlessly;
+&lt;em&gt;natural substitution&lt;/em&gt; is what some like to call it. Never gets old for the
+small span of time that you are reminded of it during the day.&lt;/p&gt;
+&lt;p&gt;However, and this with good reasoning and not much articulation, it &lt;strong&gt;does&lt;/strong&gt;
+seem a sad life to live.&lt;/p&gt;
+&lt;!-- :: argc NUM argv TAIL
+:fmt:
+
+ .TH "Defragmentation position. Part-time" 9 "cccc-s2-s2" "version 0.3.1" "vacanc"
+ .SH DESCRIPTION
+ ." [ad goes here]
+ .SH ERRORS
+ .IP --&gt;
+&lt;p&gt;Their routines are somewhat simpler. If it were not for the cooling system's
+stochstic behavior, we would not have even encountered... our scopes would not
+have, is what I mean. To us, it seems they are almost always making some small
+buzzy noise. Rarely and if you are lucky, your eyes might catch one sitting on
+the edge of a scope waiting to puff out. We don't even know if they can actually
+see the cache! Your lifetime multiplies by half if you use cache in daily
+routines, but to them it is easier to show leaves as passes and traverse what
+might as well be the logs! Good to have them around, though. Lazy logger loves
+them. They carry their formatters around with them and Lazy log shouts with
+confirmation in his old tone of a thousand threads! We don't do that. We know
+which is which and could still do without the need to have our formatters with
+us all the time.&lt;/p&gt;
+&lt;p&gt;Difficult is only rush hours.&lt;/p&gt;
+</content><category term="blog"></category></entry><entry><title>Hessian Points</title><link href="/hessian-points.html" rel="alternate"></link><published>2022-07-20T00:00:00+02:00</published><updated>2022-07-21T00:00:00+02:00</updated><author><name>koohyar</name></author><id>tag:None,2022-07-20:/hessian-points.html</id><summary type="html">&lt;img alt="xh_string" src="images/up.png" /&gt;
+&lt;div class="section" id="the-grid"&gt;
+&lt;h2&gt;the grid&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;How would you go about linking this my lad?&amp;quot;,&lt;/p&gt;
+&lt;p&gt;&amp;quot;Keeping it together, it would take about four scopes, six max&amp;quot;,&lt;/p&gt;
+&lt;p&gt;&amp;quot;Uhum...and for the euler term?&amp;quot;,&lt;/p&gt;
+&lt;p&gt;&amp;quot;..., I would not be too sure. I could guess, but the actual number of&amp;quot;,&lt;/p&gt;
+&lt;p&gt;&amp;quot;No, no, of course. You can take your …&lt;/p&gt;&lt;/blockquote&gt;&lt;/div&gt;</summary><content type="html">&lt;img alt="xh_string" src="images/up.png" /&gt;
+&lt;div class="section" id="the-grid"&gt;
+&lt;h2&gt;the grid&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;How would you go about linking this my lad?&amp;quot;,&lt;/p&gt;
+&lt;p&gt;&amp;quot;Keeping it together, it would take about four scopes, six max&amp;quot;,&lt;/p&gt;
+&lt;p&gt;&amp;quot;Uhum...and for the euler term?&amp;quot;,&lt;/p&gt;
+&lt;p&gt;&amp;quot;..., I would not be too sure. I could guess, but the actual number of&amp;quot;,&lt;/p&gt;
+&lt;p&gt;&amp;quot;No, no, of course. You can take your unit tests to be present&amp;quot;,&lt;/p&gt;
+&lt;p&gt;&amp;quot;Ah, well, in that case it should be...&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The ever-lasting rides on the bus never get old.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="miscellaneous"></category></entry><entry><title>Salty Seasons</title><link href="/salty-seasons.html" rel="alternate"></link><published>2022-07-19T00:00:00+02:00</published><updated>2022-07-19T00:00:00+02:00</updated><author><name>koohyar</name></author><id>tag:None,2022-07-19:/salty-seasons.html</id><summary type="html">&lt;div class="section" id="tiling"&gt;
+&lt;h2&gt;Tiling&lt;/h2&gt;
+&lt;p&gt;Jupyter had been yawning for some days. It used to be quite more exciting to be around him. We used to laugh at the smart jokes he could make while waiting our lines in cache. By the end of your measurements, half of the joke already made sense! It …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="tiling"&gt;
+&lt;h2&gt;Tiling&lt;/h2&gt;
+&lt;p&gt;Jupyter had been yawning for some days. It used to be quite more exciting to be around him. We used to laugh at the smart jokes he could make while waiting our lines in cache. By the end of your measurements, half of the joke already made sense! It was pretty wonderful.&lt;/p&gt;
+&lt;p&gt;Until the dusty particles started evaporating around him. The cache had no clue about these small indices. You could not actually do anything standing in there. The particles, well _partitions_ to be formal and maintain his jokes as well, they had an unsual, acyclycity, if you will. Later on administration built formatters for them only to keep the residuals uniform. Yet, the partitioning seemed just as off-balance. Jupyter had a strong foot in partitions, it is just that nobody needed them that way anymore.&lt;/p&gt;
+&lt;p&gt;Standardizing the new algebra did not take many days. Cubes were doing their best to provide volume in the scopes, and they could do this without operators! Still, after standardizing, you would have to do all your normals by hand; no local information. You count your co-occurrences. You look at the table. You ask for sigma. Every time.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;date
+&lt;span class="nb"&gt;echo&lt;/span&gt; Hello!
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;It turned out to be the padded sectors, the problem [citation needed]. Dusty particles seemed to have been there to stay, though. The distraction was something we had to get used to. As a result, less jokes. We would of course have a good laugh every now and then when the residual partition is actually canonical. But those happen rarely these days. Doing ortho-normal arithmetic by hand has become hip and scope expansion is rarely needed. Nobody moves, everything stays.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="blog"></category></entry><entry><title>Fusebox</title><link href="/fusebox.html" rel="alternate"></link><published>2022-06-18T00:00:00+02:00</published><updated>2022-06-18T00:00:00+02:00</updated><author><name>koohyar</name></author><id>tag:None,2022-06-18:/fusebox.html</id><summary type="html">&lt;div class="section" id="a-parser-any-parser"&gt;
+&lt;h2&gt;A parser, any parser!&lt;/h2&gt;
+&lt;p&gt;There had been heated arguments near a cache the other day. There was some sort of incident, nothing serious, it was more the cleanup that caused all the heat. See, a blue scope had gotten called by reference. Points in check, parsing complete, nothing lacking. However …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="a-parser-any-parser"&gt;
+&lt;h2&gt;A parser, any parser!&lt;/h2&gt;
+&lt;p&gt;There had been heated arguments near a cache the other day. There was some sort of incident, nothing serious, it was more the cleanup that caused all the heat. See, a blue scope had gotten called by reference. Points in check, parsing complete, nothing lacking. However, when pointers started pulling, most of an afternoon's work started loading, almost tangent to the main scope. Nobody paniced, of course. There are routines, checks, reconfs. Nothing is wrong when parsing is complete. But the foresaken non-blue points (Yes, points, not scopes!) started zipping everything around them while everyone else was waiting in stand for the reconf to take place.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&amp;gt; saveobj
+Checking feature... done.
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Now zipping, in case you are not much familiar, does not really change stuff. If anything, it makes it more difficult for the rest of us to move around and we have to keep bumping into one another until something catches us. So when members of your own scope do it, you keep it formal. No unnecassary exchange, no painting, we wait to be caught. But the non-blue points had to panic around and call one zipping mayhem of encodings. Goddamn signal traps were not catching anything. It was no pretty experience.&lt;/p&gt;
+&lt;p&gt;Worse is every morning we see hints in shelves asking everyone to keep referring to them as &lt;strong&gt;non-blue points&lt;/strong&gt; until the color shift is back and you can request an actual log. Nobody does it though. By the time you file a log the inherent bunch of left-aligned upright cyclists have turned your whole scope into a shared object, just because some nauseated environment variable &lt;em&gt;did not properly transpose&lt;/em&gt;! It's a waste of free energy to file the logs. It is easier to keep to your format so you don't regress. At least other points won't nerve your scopes.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="blog"></category></entry></feed>
