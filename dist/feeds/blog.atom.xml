@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Destructring Generators - koohyar</title><link href="/" rel="alternate"></link><link href="/feeds/koohyar.atom.xml" rel="self"></link><id>/</id><updated>2022-08-28T00:00:00+02:00</updated><entry><title>Strays</title><link href="/strays.html" rel="alternate"></link><published>2022-08-28T00:00:00+02:00</published><updated>2022-08-28T00:00:00+02:00</updated><author><name>koohyar</name></author><id>tag:None,2022-08-28:/strays.html</id><summary type="html">&lt;div class="section" id="definiteness-no-marks"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Destructring Generators - blog</title><link href="/" rel="alternate"></link><link href="/feeds/blog.atom.xml" rel="self"></link><id>/</id><updated>2022-09-07T00:00:00+02:00</updated><entry><title>Nameless Boundaries</title><link href="/nameless-boundaries.html" rel="alternate"></link><published>2022-09-07T00:00:00+02:00</published><updated>2022-09-07T00:00:00+02:00</updated><author><name>koohyar</name></author><id>tag:None,2022-09-07:/nameless-boundaries.html</id><summary type="html">&lt;div class="section" id="bounds"&gt;
+&lt;h2&gt;Bounds&lt;/h2&gt;
+&lt;p&gt;The leaves are quite nice in this time of the year. The colorshift uses most of
+the domain almost wherever you end up. Nobody leads, nothing is bi-partite and
+fancy, the formatters are identical within and out of scopes. The returned types
+should not matter so much in these …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="bounds"&gt;
+&lt;h2&gt;Bounds&lt;/h2&gt;
+&lt;p&gt;The leaves are quite nice in this time of the year. The colorshift uses most of
+the domain almost wherever you end up. Nobody leads, nothing is bi-partite and
+fancy, the formatters are identical within and out of scopes. The returned types
+should not matter so much in these times. Tailing contexts are everywhere and
+proofs are somewhat similar. Sorry, I meant to say specs. Specs, are what are
+somewhat similar. It takes time to get used to the wording when most of your
+partitions are not normalized. The precision point is something you would care
+to let pass and you lose a sense of technicality. It should not matter, really.
+But when you miss the point and call it a proof, no labor work is tended to.
+They should be acknowledged as specs.
+Anyway, the colorshift has your context lagging behind you as you change scopes
+and the lack of linear precision is a breeze.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="c1"&gt;# lattice :&lt;/span&gt;
+./a.out &amp;lt; world.txt
+&lt;span class="nv"&gt;clb&lt;/span&gt;&lt;span class="o"&gt;=&lt;/span&gt;
+readarray wrld_lns -C clb -c1 &amp;lt; world.txt
+&lt;span class="nb"&gt;echo&lt;/span&gt; &lt;span class="si"&gt;${&lt;/span&gt;&lt;span class="nv"&gt;wrld_lns&lt;/span&gt;&lt;span class="p"&gt;[@]&lt;/span&gt;&lt;span class="si"&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Little do we know, the famous chair started returning bubbles the other day! It must
+be the leaves and all the canonical setting. The beads start to appear every
+modulo and vanish back to main scopes! Lazy logger checked them a couple of
+times and it bothers nothing. Some partitions get chilly and have to temporarily
+leave the scope when the bubbles appear, but they don't mind. Paritions keep it
+sports when it comes to invariance. They'd read your logs back to yourself if
+they have to, but they move with the changes. It's impressive how they can hold
+projections for as long as a whole linkage. You'd think windblowers... well,
+β-arrangments would mess with their specs, but no, they link and they change
+with anything that changes. It's pretty comfy.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="blog"></category></entry><entry><title>Strays</title><link href="/strays.html" rel="alternate"></link><published>2022-08-28T00:00:00+02:00</published><updated>2022-08-28T00:00:00+02:00</updated><author><name>koohyar</name></author><id>tag:None,2022-08-28:/strays.html</id><summary type="html">&lt;div class="section" id="definiteness-no-marks"&gt;
 &lt;h2&gt;Definiteness, no marks&lt;/h2&gt;
 &lt;p&gt;Trees overfit. Day one of most integration tests they tell you that. Quite
 straightforward. No wonder trunks and trunks of scopes are allowed to eventually pile up
@@ -68,28 +104,7 @@ confirmation in his old tone of a thousand threads! We don't do that. We know
 which is which and could still do without the need to have our formatters with
 us all the time.&lt;/p&gt;
 &lt;p&gt;Difficult is only rush hours.&lt;/p&gt;
-</content><category term="blog"></category></entry><entry><title>Hessian Points</title><link href="/hessian-points.html" rel="alternate"></link><published>2022-07-20T00:00:00+02:00</published><updated>2022-07-21T00:00:00+02:00</updated><author><name>koohyar</name></author><id>tag:None,2022-07-20:/hessian-points.html</id><summary type="html">&lt;img alt="xh_string" src="images/up.png" /&gt;
-&lt;div class="section" id="the-grid"&gt;
-&lt;h2&gt;the grid&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;How would you go about linking this my lad?&amp;quot;,&lt;/p&gt;
-&lt;p&gt;&amp;quot;Keeping it together, it would take about four scopes, six max&amp;quot;,&lt;/p&gt;
-&lt;p&gt;&amp;quot;Uhum...and for the euler term?&amp;quot;,&lt;/p&gt;
-&lt;p&gt;&amp;quot;..., I would not be too sure. I could guess, but the actual number of&amp;quot;,&lt;/p&gt;
-&lt;p&gt;&amp;quot;No, no, of course. You can take your …&lt;/p&gt;&lt;/blockquote&gt;&lt;/div&gt;</summary><content type="html">&lt;img alt="xh_string" src="images/up.png" /&gt;
-&lt;div class="section" id="the-grid"&gt;
-&lt;h2&gt;the grid&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&amp;quot;How would you go about linking this my lad?&amp;quot;,&lt;/p&gt;
-&lt;p&gt;&amp;quot;Keeping it together, it would take about four scopes, six max&amp;quot;,&lt;/p&gt;
-&lt;p&gt;&amp;quot;Uhum...and for the euler term?&amp;quot;,&lt;/p&gt;
-&lt;p&gt;&amp;quot;..., I would not be too sure. I could guess, but the actual number of&amp;quot;,&lt;/p&gt;
-&lt;p&gt;&amp;quot;No, no, of course. You can take your unit tests to be present&amp;quot;,&lt;/p&gt;
-&lt;p&gt;&amp;quot;Ah, well, in that case it should be...&amp;quot;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;The ever-lasting rides on the bus never get old.&lt;/p&gt;
-&lt;/div&gt;
-</content><category term="miscellaneous"></category></entry><entry><title>Salty Seasons</title><link href="/salty-seasons.html" rel="alternate"></link><published>2022-07-19T00:00:00+02:00</published><updated>2022-07-19T00:00:00+02:00</updated><author><name>koohyar</name></author><id>tag:None,2022-07-19:/salty-seasons.html</id><summary type="html">&lt;div class="section" id="tiling"&gt;
+</content><category term="blog"></category></entry><entry><title>Salty Seasons</title><link href="/salty-seasons.html" rel="alternate"></link><published>2022-07-19T00:00:00+02:00</published><updated>2022-07-19T00:00:00+02:00</updated><author><name>koohyar</name></author><id>tag:None,2022-07-19:/salty-seasons.html</id><summary type="html">&lt;div class="section" id="tiling"&gt;
 &lt;h2&gt;Tiling&lt;/h2&gt;
 &lt;p&gt;Jupyter had been yawning for some days. It used to be quite more exciting to be around him. We used to laugh at the smart jokes he could make while waiting our lines in cache. By the end of your measurements, half of the joke already made sense! It …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="section" id="tiling"&gt;
 &lt;h2&gt;Tiling&lt;/h2&gt;
