@@ -28,10 +28,10 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - run:  pip install -r requirements.txt
-      - run:  make html
       - name: Checkout
         uses: actions/checkout@v3
+      - run:  pip install -r requirements.txt
+      - run:  make html
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Upload artifact
