@@ -2,17 +2,21 @@ from __future__ import unicode_literals
 
 AUTHOR = 'koohyar'
 SITENAME = 'Destructring Generators'
-#SITEURL = ''
+SITEURL = 'https://koohyar.github.io'
 
-
-PATH = 'content'
 
 TIMEZONE = 'Europe/Rome'
-
 DEFAULT_LANG = 'en'
+PATH = 'content'
 
 # Feed generation is usually not desired when developing
 AUTHOR_FEED_RSS = None
+
+# Page Settings
+PAGE_SAVE_AS = '{slug}.html'
+TAGS_URL = 'tags.html'
+ARCHIVES_URL = 'archive.html'
+
 
 # Blogroll
 LINKS = (('You can modify those links in your config file', '#'),
