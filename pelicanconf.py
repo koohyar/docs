@@ -2,7 +2,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'koohyar'
 SITENAME = 'Destructring Generators'
-SITEURL = 'https://koohyar.github.io'
+SITEURL = ''
 
 
 TIMEZONE = 'Europe/Rome'
