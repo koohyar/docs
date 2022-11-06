@@ -11,7 +11,7 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
-SITEURL = 'https://koohyar.github.io/docs'
+SITEURL = ''
 
 # document-relative URLs when developing
 RELATIVE_URLS = True

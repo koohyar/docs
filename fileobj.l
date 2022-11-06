@@ -1,6 +1,6 @@
 %{
 
-#define YYSTYPE double
+#define YYSTYPE int
 typedef struct YYLTYPE
 {
 	int first_line;
@@ -25,10 +25,10 @@ typedef struct YYLTYPE
 
 int main(){
 
-	YYSTYPE * yylval;
-	YYLTYPE * yylloc;
+	YYSTYPE  yylval;
+	YYLTYPE  yylloc;
 
-	yylex(yylval, yylloc);
+	yylex(&yylval, &yylloc);
 	return 0;
 
 }
