@@ -1,13 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Destructring Generators</title><link href="/" rel="alternate"></link><link href="feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2022-11-06T00:00:00+01:00</updated><entry><title>Specs and Metrics</title><link href="specs-and-metrics.html" rel="alternate"></link><published>2022-11-06T00:00:00+01:00</published><updated>2022-11-06T00:00:00+01:00</updated><author><name>koohyar</name></author><id>tag:None,2022-11-06:specs-and-metrics.html</id><summary type="html">&lt;object data="images/plateau.svg" type="image/svg+xml"&gt;
-xh_string&lt;/object&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Destructring Generators</title><link href="/" rel="alternate"></link><link href="feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2023-01-26T00:00:00+01:00</updated><entry><title>Divided by Plane</title><link href="divided-by-plane.html" rel="alternate"></link><published>2023-01-26T00:00:00+01:00</published><updated>2023-01-26T00:00:00+01:00</updated><author><name>koohyar</name></author><id>tag:None,2023-01-26:divided-by-plane.html</id><summary type="html">&lt;object class="align-center" data="images/changes.svg" style="width: 640px;" type="image/svg+xml"&gt;xh_string&lt;/object&gt;
+&lt;div class="section" id="uniform-surfaces"&gt;
+&lt;h2&gt;Uniform Surfaces&lt;/h2&gt;
+&lt;p&gt;The practice of keeping your etiquette while in circuits makes you pick up
+habits you did not use to have before. Idle times need not much conformation.
+You keep your base vectors tidy and all else is simply enjoying invariance when
+going through transpositions. Nothing requires you …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;object class="align-center" data="images/changes.svg" style="width: 640px;" type="image/svg+xml"&gt;xh_string&lt;/object&gt;
+&lt;div class="section" id="uniform-surfaces"&gt;
+&lt;h2&gt;Uniform Surfaces&lt;/h2&gt;
+&lt;p&gt;The practice of keeping your etiquette while in circuits makes you pick up
+habits you did not use to have before. Idle times need not much conformation.
+You keep your base vectors tidy and all else is simply enjoying invariance when
+going through transpositions. Nothing requires you to report your changes. But
+momentum days and all the logging fuss along with the excitements of new paths,
+new levels and new discrete transformations start to change you in interesting
+ways. You grow curious about what might be left of what used to be your
+invariance. Others share your enthusiasm and you get more adept at noticing
+perturbations, anywhere! You keep checking your logs every half an odd cycle
+and discuss with fellows of the same scope. It is mostly simply enumeration,
+sure. But fascination with being factorized and put back with smaller residuals
+will not leave you for a good while.&lt;/p&gt;
+&lt;p&gt;Interesting is how you would still check your base vectors every now and then.
+That is to say, despite the growing confidence of keeping multiplications in
+tact, and that with no units, it feels somehow pleasant to consider your own
+single process from time to time. The tendency to go through all the arithmetic
+with solid standard summations, deducing units at every successor operation, and
+waiting for yourself to accumulate linearly takes you back to your earlier self
+in a nice way, similar to when idle times used to be simply keeping your
+invariance; not much of the more complicated and advanced joy of being
+factorized with novel encodings to be put back together to see how much of the
+world is left on your orbits in order to make sure you are not messing with the scopes of
+your fellows in the circuit.&lt;/p&gt;
+&lt;p&gt;Maybe it is the new implementations, or some changes in the semantics of how
+actual residuals can be represented; part of new techniques have you store your
+results already in arguments instead of a classic recursion. In any case,
+the cool and important niceties of more advanced formulations seem to also have
+a way of nudging you to check back on your simple column-wise invarinces, just
+for yourself. As if you might need them for some other detailed balance, or
+possibly another peace of scope for the sake of your own energy levels. It is
+happy to notice it. One might also find themselves saving on a lot index work.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="blog"></category></entry><entry><title>Specs and Metrics</title><link href="specs-and-metrics.html" rel="alternate"></link><published>2022-11-06T00:00:00+01:00</published><updated>2022-11-06T00:00:00+01:00</updated><author><name>koohyar</name></author><id>tag:None,2022-11-06:specs-and-metrics.html</id><summary type="html">&lt;object data="images/plateau.svg" type="image/svg+xml"&gt;xh_string&lt;/object&gt;
 &lt;div class="section" id="canonical-blocks"&gt;
 &lt;h2&gt;Canonical Blocks&lt;/h2&gt;
 &lt;p&gt;&amp;quot;Abstracts should be promoted&amp;quot;, we read early morning on sticker notes around
 the terminal. There had been revalations in some partition design and we had
 until autumn to read up or start to copy the correct things. Eventually, most of
-it would be just checking new stuff …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;object data="images/plateau.svg" type="image/svg+xml"&gt;
-xh_string&lt;/object&gt;
+it would be just checking new stuff …&lt;/p&gt;&lt;/div&gt;</summary><content type="html">&lt;object data="images/plateau.svg" type="image/svg+xml"&gt;xh_string&lt;/object&gt;
 &lt;div class="section" id="canonical-blocks"&gt;
 &lt;h2&gt;Canonical Blocks&lt;/h2&gt;
 &lt;p&gt;&amp;quot;Abstracts should be promoted&amp;quot;, we read early morning on sticker notes around
@@ -61,15 +100,15 @@ But sweeps your worries of derivatives, no under-determinism. It has you going
 back to it, though. You get faster, more racing conditions to worry about, etc.&lt;/p&gt;
 &lt;p&gt;Keep it to good use, get used to static cache, it's there to stay.&lt;/p&gt;
 &lt;pre class="code c literal-block"&gt;
-&lt;span class="ln"&gt;25 &lt;/span&gt;&lt;span class="kt"&gt;int&lt;/span&gt; &lt;span class="nf"&gt;main&lt;/span&gt;&lt;span class="p"&gt;(){&lt;/span&gt;
-&lt;span class="ln"&gt;26 &lt;/span&gt;
-&lt;span class="ln"&gt;27 &lt;/span&gt;  &lt;span class="n"&gt;YYSTYPE&lt;/span&gt;  &lt;span class="n"&gt;yylval&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-&lt;span class="ln"&gt;28 &lt;/span&gt;  &lt;span class="n"&gt;YYLTYPE&lt;/span&gt;  &lt;span class="n"&gt;yylloc&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-&lt;span class="ln"&gt;29 &lt;/span&gt;
-&lt;span class="ln"&gt;30 &lt;/span&gt;  &lt;span class="n"&gt;yylex&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="n"&gt;yylval&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt; &lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="n"&gt;yylloc&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;
-&lt;span class="ln"&gt;31 &lt;/span&gt;  &lt;span class="k"&gt;return&lt;/span&gt; &lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;
-&lt;span class="ln"&gt;32 &lt;/span&gt;
-&lt;span class="ln"&gt;33 &lt;/span&gt;&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;span class="ln"&gt;25 &lt;/span&gt;&lt;span class="kt"&gt;int&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nf"&gt;main&lt;/span&gt;&lt;span class="p"&gt;(){&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;span class="ln"&gt;26 &lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;span class="ln"&gt;27 &lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;YYSTYPE&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;yylval&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;span class="ln"&gt;28 &lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;YYLTYPE&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;yylloc&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;span class="ln"&gt;29 &lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;span class="ln"&gt;30 &lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;yylex&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="n"&gt;yylval&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="n"&gt;yylloc&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;span class="ln"&gt;31 &lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="k"&gt;return&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;span class="ln"&gt;32 &lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;span class="ln"&gt;33 &lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;&lt;span class="p"&gt;}&lt;/span&gt;
 &lt;/pre&gt;
 &lt;p&gt;Fascinating, how edges never turn out.&lt;/p&gt;
 &lt;/div&gt;
