@@ -22,4 +22,4 @@ RELATIVE_URLS = True
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""
-#GOOGLE_ANALYTICS = ""
+GOOGLE_ANALYTICS = "G-G6CN4BEWT4"
