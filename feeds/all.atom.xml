@@ -75,6 +75,29 @@ to their own bounds. The arithmetics is difficult, though. But there seems to be
 enough number of empty views to try out all the new functions and see how they
 map.&lt;/p&gt;
 &lt;/div&gt;
+</content><category term="blog"></category></entry><entry><title>Contours Convolve</title><link href="contours-convolve.html" rel="alternate"></link><published>2022-08-28T00:00:00+02:00</published><updated>2022-08-28T00:00:00+02:00</updated><author><name>koohyar</name></author><id>tag:None,2022-08-28:contours-convolve.html</id><summary type="html">&lt;hr class="docutils" /&gt;
+&lt;p&gt;A nice part of the acyclic movement has been the positive feedback they manage
+to store, with or without bounds. Fellow partitions manage to align and keep an
+identifier for a simplex with many tables. It is nice, because the normal
+setting cannot make convex tables. Well, sometimes it would …&lt;/p&gt;</summary><content type="html">&lt;hr class="docutils" /&gt;
+&lt;p&gt;A nice part of the acyclic movement has been the positive feedback they manage
+to store, with or without bounds. Fellow partitions manage to align and keep an
+identifier for a simplex with many tables. It is nice, because the normal
+setting cannot make convex tables. Well, sometimes it would, environment
+variables could pile up with no guarantee to add up. Although, there are all sorts nested
+isolation that take care of the gaurantee. Nothing needs to add up, when your bounds are not identified.&lt;/p&gt;
+&lt;pre class="code c literal-block"&gt;
+&lt;span class="ln"&gt;25 &lt;/span&gt;&lt;span class="kt"&gt;int&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nf"&gt;main&lt;/span&gt;&lt;span class="p"&gt;(){&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;span class="ln"&gt;26 &lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;span class="ln"&gt;27 &lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;YYSTYPE&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;yylval&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;span class="ln"&gt;28 &lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;YYLTYPE&lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;yylloc&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;span class="ln"&gt;29 &lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;span class="ln"&gt;30 &lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="n"&gt;yylex&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="n"&gt;yylval&lt;/span&gt;&lt;span class="p"&gt;,&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="n"&gt;yylloc&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;span class="ln"&gt;31 &lt;/span&gt;&lt;span class="w"&gt;  &lt;/span&gt;&lt;span class="k"&gt;return&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="mi"&gt;0&lt;/span&gt;&lt;span class="p"&gt;;&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;span class="ln"&gt;32 &lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;span class="ln"&gt;33 &lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;&lt;span class="p"&gt;}&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;Fascinating, how edges never turn out.&lt;/p&gt;
 </content><category term="blog"></category></entry><entry><title>Strays</title><link href="strays.html" rel="alternate"></link><published>2022-08-28T00:00:00+02:00</published><updated>2022-08-28T00:00:00+02:00</updated><author><name>koohyar</name></author><id>tag:None,2022-08-28:strays.html</id><summary type="html">&lt;div class="section" id="definiteness-no-marks"&gt;
 &lt;h2&gt;Definiteness, no marks&lt;/h2&gt;
 &lt;p&gt;Trees overfit. Day one of most integration tests they tell you that. Quite
